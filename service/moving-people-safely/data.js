@@ -41,74 +41,71 @@ var data = {
             "caption": "Move details - must/must not return",
           "imgref": "images/home/09.png"
         },
+        {
+            "caption": "Profile - start",
+          "imgref": "images/home/10.png"
+        },
       ]
     },
     {
       "title": "Profile", // user journey title
       "path": [ // array of images
         {
-          "caption": "Profile", // image caption
+          "caption": "Profile - start", // image caption
           "imgref": "images/profile/01.png" // image path
         },
         {
-          "caption": "Profile", // image caption
+          "caption": "Profile - missing", // image caption
           "imgref": "images/profile/02.png" // image path
         },
         {
-          "caption": "Profile", // image caption
+          "caption": "Profile - health complete", // image caption
           "imgref": "images/profile/03.png" // image path
         },
         {
-          "caption": "Profile", // image caption
+          "caption": "Profile - complete", // image caption
           "imgref": "images/profile/04.png" // image path
         },
         {
-          "caption": "Profile", // image caption
+          "caption": "Profile - in-flight", // image caption
           "imgref": "images/profile/05.png" // image path
         },
         {
-          "caption": "Profile", // image caption
+          "caption": "Profile - reuse", // image caption
           "imgref": "images/profile/06.png" // image path
         },
         {
-          "caption": "Profile", // image caption
+          "caption": "Profile - section busy", // image caption
           "imgref": "images/profile/07.png" // image path
         },
+      ]
+    },
+    {
+      "title": "Profile - detail", // user journey title
+      "path": [ // array of images
         {
-          "caption": "Profile", // image caption
-          "imgref": "images/profile/08.png" // image path
+          "caption": "Profile - risk overview - missing", // image caption
+          "imgref": "images/profile-detail/01.png" // image path
         },
         {
-          "caption": "Profile", // image caption
-          "imgref": "images/profile/09.png" // image path
+          "caption": "Profile -  healthcare overview - missing", // image caption
+          "imgref": "images/profile-detail/02.png" // image path
         },
         {
-          "caption": "Profile", // image caption
-          "imgref": "images/profile/10.png" // image path
+          "caption": "Profile - risk overview - complete", // image caption
+          "imgref": "images/profile-detail/03.png" // image path
         },
         {
-          "caption": "Profile", // image caption
-          "imgref": "images/profile/11.png" // image path
+          "caption": "Profile - healthcare overview - complete", // image caption
+          "imgref": "images/profile-detail/04.png" // image path
         },
         {
-          "caption": "Profile", // image caption
-          "imgref": "images/profile/12.png" // image path
+          "caption": "Profile - risk overview - review", // image caption
+          "imgref": "images/profile-detail/05.png" // image path
         },
         {
-          "caption": "Profile", // image caption
-          "imgref": "images/profile/13.png" // image path
-        },
-        {
-          "caption": "Profile", // image caption
-          "imgref": "images/profile/14.png" // image path
-        },
-        {
-          "caption": "Profile", // image caption
-          "imgref": "images/profile/15.png" // image path
-        },
-        {
-          "caption": "Profile", // image caption
-          "imgref": "images/profile/16.png" // image path
+          "caption": "Profile - healthcare overview - review", // image caption
+          "imgref": "images/profile-detail/06.png" // image path
         },
       ]
     },
@@ -198,16 +195,12 @@ var data = {
       "title": "Offences", // user journey title
       "path": [ // array of images
         {
-          "caption": "Offences", // image caption
+          "caption": "Offences - start", // image caption
           "imgref": "images/offences/01.png" // image path
         },
         {
-          "caption": "Offences", // image caption
+          "caption": "Offences - complete", // image caption
           "imgref": "images/offences/02.png" // image path
-        },
-        {
-          "caption": "Offences", // image caption
-          "imgref": "images/offences/03.png" // image path
         },
       ]
     },
@@ -219,8 +212,93 @@ var data = {
           "imgref": "images/dashboard/01.png" // image path
         },
         {
-          "caption": "Dashboard", // image caption
+          "caption": "Dashboard - resuse search", // image caption
           "imgref": "images/dashboard/02.png" // image path
+        },
+      ]
+    },
+    {
+      "title": "Workflow", // user journey title
+      "path": [ // array of images
+        {
+          "caption": "Workflow - step 1", // image caption
+          "imgref": "images/workflow/01.png" // image path
+        },
+        {
+          "caption": "Workflow - step 2", // image caption
+          "imgref": "images/workflow/02.png" // image path
+        },
+        {
+          "caption": "Workflow - step 3", // image caption
+          "imgref": "images/workflow/03.png" // image path
+        },
+        {
+          "caption": "Workflow - step 4", // image caption
+          "imgref": "images/workflow/04.png" // image path
+        },
+        {
+          "caption": "Workflow - step 5", // image caption
+          "imgref": "images/workflow/05.png" // image path
+        },
+        {
+          "caption": "Workflow - step 6", // image caption
+          "imgref": "images/workflow/06.png" // image path
+        },
+        {
+          "caption": "Workflow - step 7", // image caption
+          "imgref": "images/workflow/07.png" // image path
+        },
+        {
+          "caption": "Workflow - step 8", // image caption
+          "imgref": "images/workflow/08.png" // image path
+        },
+        {
+          "caption": "Workflow - step 9", // image caption
+          "imgref": "images/workflow/09.png" // image path
+        },
+        {
+          "caption": "Workflow - step 10", // image caption
+          "imgref": "images/workflow/10.png" // image path
+        },
+        {
+          "caption": "Workflow - step 11", // image caption
+          "imgref": "images/workflow/11.png" // image path
+        },
+        {
+          "caption": "Workflow - step 12", // image caption
+          "imgref": "images/workflow/12.png" // image path
+        },
+        {
+          "caption": "Workflow - step 13", // image caption
+          "imgref": "images/workflow/13.png" // image path
+        },
+        {
+          "caption": "Workflow - step 14", // image caption
+          "imgref": "images/workflow/14.png" // image path
+        },
+        {
+          "caption": "Workflow - step 15", // image caption
+          "imgref": "images/workflow/15.png" // image path
+        },
+        {
+          "caption": "Workflow - step 16", // image caption
+          "imgref": "images/workflow/16.png" // image path
+        },
+        {
+          "caption": "Workflow - step 17", // image caption
+          "imgref": "images/workflow/17.png" // image path
+        },
+        {
+          "caption": "Workflow - step 18", // image caption
+          "imgref": "images/workflow/18.png" // image path
+        },
+        {
+          "caption": "Workflow - step 19", // image caption
+          "imgref": "images/workflow/19.png" // image path
+        },
+        {
+          "caption": "Workflow - step 20", // image caption
+          "imgref": "images/workflow/20.png" // image path
         },
       ]
     },
