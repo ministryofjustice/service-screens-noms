@@ -59,6 +59,23 @@ var data = {
           "caption": "Inbox - request details", // image caption
           "imgref": "images/3. staff_inbox_b.png" // image path
         },
+        {
+          "caption": "Inbox - process request", // image caption
+          "imgref": "images/4. staff_process_request.png" // image path
+        },
+      ]
+    },
+{
+      "title": "Staff - Processed requests ", // user journey title
+      "path": [ // array of images
+        {
+          "caption": "Processed requests - last 100", // image caption
+          "imgref": "images/5. staff_processed_list.png" // image path
+        },
+        {
+          "caption": "Processed requests - processed request details", // image caption
+          "imgref": "images/6. staff_visit_details_a.png" // image path
+        },
       ]
     },
   ]}
