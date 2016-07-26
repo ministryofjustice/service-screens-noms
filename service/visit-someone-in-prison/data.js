@@ -35,7 +35,6 @@ var data = {
         }
       ]
     },
-  
    {
       "title": "Staff - Log-in ", // user journey title
       "path": [ // array of images
@@ -49,7 +48,6 @@ var data = {
         },
       ]
     },
-  
    {
       "title": "Staff - Inbox ", // user journey title
       "path": [ // array of images
@@ -67,7 +65,6 @@ var data = {
         },
       ]
     },
-  
    {
       "title": "Staff - Processed requests ", // user journey title
       "path": [ // array of images
@@ -81,7 +78,6 @@ var data = {
         },
       ]
     },
-  
    {
       "title": "Staff - Print booked visits ", // user journey title
       "path": [ // array of images
