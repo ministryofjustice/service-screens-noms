@@ -34,7 +34,7 @@ var data = {
           "imgref": "images/7.request_sent.png"
         }
       ]
-    }
+    },
   {
       "title": "Staff - Log-in ", // user journey title
       "path": [ // array of images
