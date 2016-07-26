@@ -3,7 +3,7 @@ var data = {
   "last-updated": "26 July 2016", // date last updated
   "userjourneys": [
     {
-      "title": "Booking request", // user journey title
+      "title": "Visitor - booking request", // user journey title
       "path": [ // array of images
         {
           "caption": "Prisoner details", // image caption
@@ -35,4 +35,30 @@ var data = {
         }
       ]
     }
+  {
+      "title": "Staff - Log-in ", // user journey title
+      "path": [ // array of images
+        {
+          "caption": "Log-in", // image caption
+          "imgref": "images/0.staff_login_a.png" // image path
+        },
+        {
+          "caption": "Logged in- confirmation", // image caption
+          "imgref": "images/1.staff_login_b.png" // image path
+        },
+      ]
+    },
+    {
+      "title": "Staff - Inbox ", // user journey title
+      "path": [ // array of images
+        {
+          "caption": "Inbox - unprocessed requests and visitor cancellations", // image caption
+          "imgref": "images/2. staff_inbox_a.png" // image path
+        },
+        {
+          "caption": "Inbox - request details", // image caption
+          "imgref": "images/3. staff_inbox_b.png" // image path
+        },
+      ]
+    },
   ]}
