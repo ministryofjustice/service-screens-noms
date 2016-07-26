@@ -35,12 +35,13 @@ var data = {
         }
       ]
     },
-  {
+  
+   {
       "title": "Staff - Log-in ", // user journey title
       "path": [ // array of images
         {
           "caption": "Log-in", // image caption
-          "imgref": "images/0.staff_login_a.png" // image path
+          "imgref": "images/0. staff_login_a.png" // image path
         },
         {
           "caption": "Logged in- confirmation", // image caption
@@ -48,33 +49,53 @@ var data = {
         },
       ]
     },
-    {
+  
+   {
       "title": "Staff - Inbox ", // user journey title
       "path": [ // array of images
         {
-          "caption": "Inbox - unprocessed requests and visitor cancellations", // image caption
+          "caption": "Unprocessed requests and visitor cancellations", // image caption
           "imgref": "images/2. staff_inbox_a.png" // image path
         },
         {
-          "caption": "Inbox - request details", // image caption
+          "caption": "Request details", // image caption
           "imgref": "images/3. staff_inbox_b.png" // image path
         },
         {
-          "caption": "Inbox - process request", // image caption
+          "caption": "Process request", // image caption
           "imgref": "images/4. staff_process_request.png" // image path
         },
       ]
     },
-{
+  
+   {
       "title": "Staff - Processed requests ", // user journey title
       "path": [ // array of images
         {
-          "caption": "Processed requests - last 100", // image caption
+          "caption": "Last 100 processed requests", // image caption
           "imgref": "images/5. staff_processed_list.png" // image path
         },
         {
-          "caption": "Processed requests - processed request details", // image caption
+          "caption": "Processed request details", // image caption
           "imgref": "images/6. staff_visit_details_a.png" // image path
+        },
+      ]
+    },
+  
+   {
+      "title": "Staff - Print booked visits ", // user journey title
+      "path": [ // array of images
+        {
+          "caption": "Start print process", // image caption
+          "imgref": "images/7. staff_print_a.png" // image path
+        },
+        {
+          "caption": "Select date of visits", // image caption
+          "imgref": "images/8. staff_print_b.png" // image path
+        },
+        {
+          "caption": "Select date of visits", // image caption
+          "imgref": "images/9. staff_print_c.png" // image path
         },
       ]
     },
