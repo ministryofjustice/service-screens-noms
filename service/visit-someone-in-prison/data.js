@@ -39,28 +39,24 @@ var data = {
       "title": "Staff - Individual Sign-in ", // user journey title
       "path": [ // array of images
         {
-          "caption": "Sign-in", // image caption
-          "imgref": "images/0. staff_login_a.png" // image path
-        },
-        {
           "caption": "Personal details", // image caption
-          "imgref": "Personal_details.png" // image path
+          "imgref": "images/Personal_details.png" // image path
         },
         {
           "caption": "Individual profile", // image caption
-          "imgref": "Your_profile.png" // image path
+          "imgref": "images/Your_profile.png" // image path
         },
         {
           "caption": "Change details", // image caption
-          "imgref": "Edit_profile.png" // image path
+          "imgref": "images/Edit_profile.png" // image path
         },
         {
           "caption": "Team details (Admin users)", // image caption
-          "imgref": "Team_details.png" // image path
+          "imgref": "images/Team_details.png" // image path
         },
         {
           "caption": "Set-up complete", // image caption
-          "imgref": "Set_up_complete.png" // image path
+          "imgref": "images/Set_up_complete.png" // image path
         },
       ]
     },
