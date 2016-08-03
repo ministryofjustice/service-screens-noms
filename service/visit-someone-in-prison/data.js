@@ -65,11 +65,15 @@ var data = {
       "path": [ // array of images
  {
           "caption": "Signed-in - confirmation", // image caption
-          "imgref": "images/1.staff_login_b.png" // image path
+          "imgref": "images/3.staff_inbox_c.png" // image path
+        },
+        {
+          "caption": "Cancellations", // image caption
+          "imgref": "images/3.staff_inbox_d.png" // image path
         },
         {
           "caption": "Unprocessed requests", // image caption
-          "imgref": "images/2. staff_inbox_a.png" // image path
+          "imgref": "images/3.staff_inbox_e.png" // image path
         },
         {
           "caption": "Request details", // image caption
