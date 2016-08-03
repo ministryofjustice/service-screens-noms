@@ -44,19 +44,23 @@ var data = {
         },
         {
           "caption": "Personal details", // image caption
-          "imgref": "Personal details.png" // image path
+          "imgref": "Personal_details.png" // image path
         },
         {
           "caption": "Individual profile", // image caption
-          "imgref": "Your profile.png" // image path
+          "imgref": "Your_profile.png" // image path
         },
         {
           "caption": "Change details", // image caption
-          "imgref": "Edit profile change password.png" // image path
+          "imgref": "Edit_profile.png" // image path
         },
         {
           "caption": "Team details (Admin users)", // image caption
-          "imgref": "Team details.png" // image path
+          "imgref": "Team_details.png" // image path
+        },
+        {
+          "caption": "Set-up complete", // image caption
+          "imgref": "Set_up_complete.png" // image path
         },
       ]
     },
