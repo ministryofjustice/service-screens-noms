@@ -36,21 +36,37 @@ var data = {
       ]
     },
    {
-      "title": "Staff - Log-in ", // user journey title
+      "title": "Staff - Individual Sign-in ", // user journey title
       "path": [ // array of images
         {
-          "caption": "Log-in", // image caption
+          "caption": "Sign-in", // image caption
           "imgref": "images/0. staff_login_a.png" // image path
         },
         {
-          "caption": "Logged in- confirmation", // image caption
-          "imgref": "images/1.staff_login_b.png" // image path
+          "caption": "Personal details", // image caption
+          "imgref": "Personal details.png" // image path
+        },
+        {
+          "caption": "Individual profile", // image caption
+          "imgref": "Your profile.png" // image path
+        },
+        {
+          "caption": "Change details", // image caption
+          "imgref": "Edit profile change password.png" // image path
+        },
+        {
+          "caption": "Team details (Admin users)", // image caption
+          "imgref": "Team details.png" // image path
         },
       ]
     },
    {
       "title": "Staff - Inbox ", // user journey title
       "path": [ // array of images
+ {
+          "caption": "Signed-in - confirmation", // image caption
+          "imgref": "images/1.staff_login_b.png" // image path
+        },
         {
           "caption": "Unprocessed requests and visitor cancellations", // image caption
           "imgref": "images/2. staff_inbox_a.png" // image path
