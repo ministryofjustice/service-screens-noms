@@ -68,7 +68,7 @@ var data = {
           "imgref": "images/1.staff_login_b.png" // image path
         },
         {
-          "caption": "Unprocessed requests and visitor cancellations", // image caption
+          "caption": "Unprocessed requests", // image caption
           "imgref": "images/2. staff_inbox_a.png" // image path
         },
         {
